@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "Product 1", "sku_id": 101 },
+    { "id": 2, "name": "Product 2", "sku_id": 102 },
+    { "id": 3, "name": "Product 3", "sku_id": 103 }
+  ]
+  

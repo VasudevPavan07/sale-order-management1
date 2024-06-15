@@ -6,7 +6,7 @@ import ThemeToggle from './ThemeToggle';
 const Layout = ({children}) => {
   return (
 <Box>
-    <Flex justify='space-between' align='center' p={4} bg='blue.500' color='white'>
+    <Flex justify='space-between' align='center' p={8} bg='blue.500' color='white'>
         <Box>
             <h1>My App</h1>
         </Box>
@@ -14,7 +14,7 @@ const Layout = ({children}) => {
             <ThemeToggle />
         </Box>
     </Flex>
-    <Box p={4}>
+    <Box p={6}>
         {children}
     </Box>
 </Box>

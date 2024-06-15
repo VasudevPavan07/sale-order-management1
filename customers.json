@@ -1,0 +1,31 @@
+[
+    {
+      "id": 9,
+      "customer": 11908,
+      "customer_profile": {
+        "id": 11908,
+        "name": "Ram",
+        "email": "jesus_christ@church.com",
+        "pincode": "Mumbai",
+        "location_name": "Mumbai, Maharashtra, India",
+        "type": "C",
+        "profile_pic": null,
+        "gst": ""
+      }
+    },
+    {
+        "id": 9,
+        "customer": 11909,
+        "customer_profile": {
+          "id": 11909,
+          "name": "Pavan",
+          "email": "jesus_christ@church.com",
+          "pincode": "Mumbai",
+          "location_name": "Mumbai, Maharashtra, India",
+          "type": "C",
+          "profile_pic": null,
+          "gst": ""
+        }
+      }
+  ]
+  
