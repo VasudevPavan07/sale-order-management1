@@ -19,7 +19,7 @@ const LoginPage = () => {
   const toast = useToast();
 
   const handleLogin = () => {
-    if (username === 'admin' && password === 'password') {
+    if (username === 'Admin' && password === 'Password') {
       localStorage.setItem('authenticated', 'true');
       navigate('/sale-orders');
     } else {
